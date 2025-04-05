@@ -1,15 +1,13 @@
-<script>
-[
-  {
-    "id": 1,
-    "word": "cat",
-    "translation": "kucing",
-    "audio": "cat.mp3",
-    "example": "The cat sleeps on the bed."
-  },
-  ...
-]
-</script>
+### JavaScript (fetch API)
+```markdown
+```js
+fetch("https://asep38.github.io/api-inggris-indonesia/data/vocab/animals.json")
+  .then(res => res.json())
+  .then(data => {
+    data.forEach(item => {
+      console.log(`${item.word} = ${item.translation}`);
+    });
+  });
 
 - `id`: Nomor urut unik
 - `word`: Kosakata Bahasa Inggris
