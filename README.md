@@ -1,5 +1,5 @@
 
-# 🇬🇧🇮🇩 English ↔ Indonesian Vocabulary API
+# English ↔ Indonesian Vocabulary API
 
 **Open-source API** berisi kumpulan kosakata Bahasa Inggris dan terjemahan Bahasa Indonesia, cocok untuk digunakan dalam aplikasi belajar bahasa, kuis edukasi, dan proyek open source lainnya.
 
