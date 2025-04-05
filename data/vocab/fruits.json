@@ -1,0 +1,709 @@
+[
+    {
+      "id": 1,
+      "word": "apple",
+      "translation": "apel",
+      "audio": "",
+      "example": "She eats an apple every day."
+    },
+    {
+      "id": 2,
+      "word": "banana",
+      "translation": "pisang",
+      "audio": "",
+      "example": "Monkeys love bananas."
+    },
+    {
+      "id": 3,
+      "word": "orange",
+      "translation": "jeruk",
+      "audio": "",
+      "example": "I drank a glass of orange juice."
+    },
+    {
+      "id": 4,
+      "word": "grape",
+      "translation": "anggur",
+      "audio": "",
+      "example": "Grapes grow in bunches."
+    },
+    {
+      "id": 5,
+      "word": "mango",
+      "translation": "mangga",
+      "audio": "",
+      "example": "Mangoes are sweet and juicy."
+    },
+    {
+      "id": 6,
+      "word": "papaya",
+      "translation": "pepaya",
+      "audio": "",
+      "example": "Papaya is rich in vitamin C."
+    },
+    {
+      "id": 7,
+      "word": "pineapple",
+      "translation": "nanas",
+      "audio": "",
+      "example": "Pineapple tastes both sweet and sour."
+    },
+    {
+      "id": 8,
+      "word": "watermelon",
+      "translation": "semangka",
+      "audio": "",
+      "example": "Watermelon is perfect for summer."
+    },
+    {
+      "id": 9,
+      "word": "pear",
+      "translation": "pir",
+      "audio": "",
+      "example": "He sliced a pear for snack."
+    },
+    {
+      "id": 10,
+      "word": "peach",
+      "translation": "persik",
+      "audio": "",
+      "example": "Peaches are soft and fuzzy."
+    },
+    {
+      "id": 11,
+      "word": "plum",
+      "translation": "prem",
+      "audio": "",
+      "example": "I like plum jam on toast."
+    },
+    {
+      "id": 12,
+      "word": "cherry",
+      "translation": "ceri",
+      "audio": "",
+      "example": "She topped the cake with a cherry."
+    },
+    {
+      "id": 13,
+      "word": "strawberry",
+      "translation": "stroberi",
+      "audio": "",
+      "example": "Strawberries are great with cream."
+    },
+    {
+      "id": 14,
+      "word": "blueberry",
+      "translation": "bluberi",
+      "audio": "",
+      "example": "Blueberry muffins are my favorite."
+    },
+    {
+      "id": 15,
+      "word": "raspberry",
+      "translation": "rasberi",
+      "audio": "",
+      "example": "She picked fresh raspberries from the garden."
+    },
+    {
+      "id": 16,
+      "word": "blackberry",
+      "translation": "blackberry",
+      "audio": "",
+      "example": "Blackberries grow on thorny bushes."
+    },
+    {
+      "id": 17,
+      "word": "kiwi",
+      "translation": "kiwi",
+      "audio": "",
+      "example": "Kiwi fruit has a fuzzy brown skin."
+    },
+    {
+      "id": 18,
+      "word": "lime",
+      "translation": "jeruk nipis",
+      "audio": "",
+      "example": "Lime is often used in drinks."
+    },
+    {
+      "id": 19,
+      "word": "lemon",
+      "translation": "lemon",
+      "audio": "",
+      "example": "Lemon juice is sour but refreshing."
+    },
+    {
+      "id": 20,
+      "word": "avocado",
+      "translation": "alpukat",
+      "audio": "",
+      "example": "Avocado is good for your skin."
+    },
+    {
+        "id": 21,
+        "word": "coconut",
+        "translation": "kelapa",
+        "audio": "",
+        "example": "Coconut water is refreshing."
+      },
+      {
+        "id": 22,
+        "word": "durian",
+        "translation": "durian",
+        "audio": "",
+        "example": "Durian has a strong smell but delicious taste."
+      },
+      {
+        "id": 23,
+        "word": "fig",
+        "translation": "buah ara",
+        "audio": "",
+        "example": "Figs are sweet and chewy."
+      },
+      {
+        "id": 24,
+        "word": "guava",
+        "translation": "jambu biji",
+        "audio": "",
+        "example": "Guava juice is very healthy."
+      },
+      {
+        "id": 25,
+        "word": "jackfruit",
+        "translation": "nangka",
+        "audio": "",
+        "example": "Jackfruit can be eaten raw or cooked."
+      },
+      {
+        "id": 26,
+        "word": "longan",
+        "translation": "kelengkeng",
+        "audio": "",
+        "example": "Longan tastes sweet and juicy."
+      },
+      {
+        "id": 27,
+        "word": "lychee",
+        "translation": "leci",
+        "audio": "",
+        "example": "Lychee is popular in summer drinks."
+      },
+      {
+        "id": 28,
+        "word": "mangosteen",
+        "translation": "manggis",
+        "audio": "",
+        "example": "Mangosteen is called the queen of fruits."
+      },
+      {
+        "id": 29,
+        "word": "passion fruit",
+        "translation": "markisa",
+        "audio": "",
+        "example": "Passion fruit has a tangy flavor."
+      },
+      {
+        "id": 30,
+        "word": "pomegranate",
+        "translation": "delima",
+        "audio": "",
+        "example": "Pomegranate seeds are rich in antioxidants."
+      },
+      {
+        "id": 31,
+        "word": "sapodilla",
+        "translation": "sawo",
+        "audio": "",
+        "example": "Sapodilla is sweet when ripe."
+      },
+      {
+        "id": 32,
+        "word": "soursop",
+        "translation": "sirsak",
+        "audio": "",
+        "example": "Soursop has a unique sour taste."
+      },
+      {
+        "id": 33,
+        "word": "starfruit",
+        "translation": "belimbing",
+        "audio": "",
+        "example": "Starfruit is shaped like a star."
+      },
+      {
+        "id": 34,
+        "word": "tamarind",
+        "translation": "asam jawa",
+        "audio": "",
+        "example": "Tamarind is often used in cooking."
+      },
+      {
+        "id": 35,
+        "word": "date",
+        "translation": "kurma",
+        "audio": "",
+        "example": "Dates are popular during Ramadan."
+      },
+      {
+        "id": 36,
+        "word": "apricot",
+        "translation": "aprikot",
+        "audio": "",
+        "example": "Apricots are small and sweet."
+      },
+      {
+        "id": 37,
+        "word": "nectarine",
+        "translation": "nektarin",
+        "audio": "",
+        "example": "Nectarines look like peaches."
+      },
+      {
+        "id": 38,
+        "word": "cranberry",
+        "translation": "kranberi",
+        "audio": "",
+        "example": "Cranberries are used in sauces and juices."
+      },
+      {
+        "id": 39,
+        "word": "gooseberry",
+        "translation": "kismis india",
+        "audio": "",
+        "example": "Gooseberries are rich in vitamin C."
+      },
+      {
+        "id": 40,
+        "word": "olive",
+        "translation": "zaitun",
+        "audio": "",
+        "example": "Olives are used in salads and pizza."
+      },
+    
+      {
+        "id": 41,
+        "word": "cantaloupe",
+        "translation": "blewah",
+        "audio": "",
+        "example": "Cantaloupe is juicy and sweet."
+      },
+      {
+        "id": 42,
+        "word": "honeydew",
+        "translation": "melon madu",
+        "audio": "",
+        "example": "Honeydew is a type of melon."
+      },
+      {
+        "id": 43,
+        "word": "boysenberry",
+        "translation": "boysenberi",
+        "audio": "",
+        "example": "Boysenberries are a cross between raspberry and blackberry."
+      },
+      {
+        "id": 44,
+        "word": "currant",
+        "translation": "kismis",
+        "audio": "",
+        "example": "Currants are used in jams and desserts."
+      },
+      {
+        "id": 45,
+        "word": "kumquat",
+        "translation": "jeruk kumquat",
+        "audio": "",
+        "example": "Kumquats can be eaten with the skin."
+      },
+      {
+        "id": 46,
+        "word": "mulberry",
+        "translation": "murbei",
+        "audio": "",
+        "example": "Mulberries grow on trees."
+      },
+      {
+        "id": 47,
+        "word": "ackee",
+        "translation": "buah ackee",
+        "audio": "",
+        "example": "Ackee is a fruit from Jamaica."
+      },
+      {
+        "id": 48,
+        "word": "breadfruit",
+        "translation": "sukun",
+        "audio": "",
+        "example": "Breadfruit can be baked or fried."
+      },
+      {
+        "id": 49,
+        "word": "rambutan",
+        "translation": "rambutan",
+        "audio": "",
+        "example": "Rambutan is a hairy tropical fruit."
+      },
+      {
+        "id": 50,
+        "word": "salak",
+        "translation": "salak",
+        "audio": "",
+        "example": "Salak is also known as snake fruit."
+      },
+    
+      {
+        "id": 51,
+        "word": "langsat",
+        "translation": "langsat",
+        "audio": "",
+        "example": "Langsat has a sweet and sour taste."
+      },
+      {
+        "id": 52,
+        "word": "duku",
+        "translation": "duku",
+        "audio": "",
+        "example": "Duku is similar to langsat but sweeter."
+      },
+      {
+        "id": 53,
+        "word": "matoa",
+        "translation": "matoa",
+        "audio": "",
+        "example": "Matoa is a tropical fruit from Papua."
+      },
+      {
+        "id": 54,
+        "word": "santol",
+        "translation": "sentul",
+        "audio": "",
+        "example": "Santol is often made into syrup."
+      },
+      {
+        "id": 55,
+        "word": "genip",
+        "translation": "kenitu",
+        "audio": "",
+        "example": "Genip is sticky and sweet."
+      },
+      {
+        "id": 56,
+        "word": "tangerine",
+        "translation": "jeruk mandarin",
+        "audio": "",
+        "example": "Tangerines are easy to peel."
+      },
+      {
+        "id": 57,
+        "word": "ugli fruit",
+        "translation": "jeruk ugli",
+        "audio": "",
+        "example": "Ugli fruit is a hybrid citrus."
+      },
+      {
+        "id": 58,
+        "word": "pomelo",
+        "translation": "jeruk bali",
+        "audio": "",
+        "example": "Pomelo is the largest citrus fruit."
+      },
+      {
+        "id": 59,
+        "word": "bilimbi",
+        "translation": "belimbing wuluh",
+        "audio": "",
+        "example": "Bilimbi is very sour and used in cooking."
+      },
+      {
+        "id": 60,
+        "word": "ambarella",
+        "translation": "kedondong",
+        "audio": "",
+        "example": "Ambarella can be made into juice."
+      },
+    
+      {
+        "id": 61,
+        "word": "noni",
+        "translation": "mengkudu",
+        "audio": "",
+        "example": "Noni has medicinal benefits."
+      },
+      {
+        "id": 62,
+        "word": "tamarillo",
+        "translation": "terong belanda",
+        "audio": "",
+        "example": "Tamarillo is also called tree tomato."
+      },
+      {
+        "id": 63,
+        "word": "miracle fruit",
+        "translation": "buah ajaib",
+        "audio": "",
+        "example": "Miracle fruit makes sour food taste sweet."
+      },
+      {
+        "id": 64,
+        "word": "santol",
+        "translation": "sentul",
+        "audio": "",
+        "example": "Santol can be sour or sweet."
+      },
+      {
+        "id": 65,
+        "word": "chempedak",
+        "translation": "cempedak",
+        "audio": "",
+        "example": "Chempedak is similar to jackfruit."
+      },
+      {
+        "id": 66,
+        "word": "pulasan",
+        "translation": "pulasan",
+        "audio": "",
+        "example": "Pulasan looks like rambutan but is sweeter."
+      },
+      {
+        "id": 67,
+        "word": "sugar apple",
+        "translation": "srikaya",
+        "audio": "",
+        "example": "Sugar apple has a custard-like texture."
+      },
+      {
+        "id": 68,
+        "word": "rose apple",
+        "translation": "jambu air",
+        "audio": "",
+        "example": "Rose apples are crisp and juicy."
+      },
+      {
+        "id": 69,
+        "word": "white sapote",
+        "translation": "sapote putih",
+        "audio": "",
+        "example": "White sapote tastes like vanilla pudding."
+      },
+      {
+        "id": 70,
+        "word": "black sapote",
+        "translation": "sapote hitam",
+        "audio": "",
+        "example": "Black sapote is known as chocolate pudding fruit."
+      },
+    
+      {
+        "id": 71,
+        "word": "jabuticaba",
+        "translation": "jabuticaba",
+        "audio": "",
+        "example": "Jabuticaba grows directly on the tree trunk."
+      },
+      {
+        "id": 72,
+        "word": "lucuma",
+        "translation": "lucuma",
+        "audio": "",
+        "example": "Lucuma is sweet and used in desserts."
+      },
+      {
+        "id": 73,
+        "word": "loquat",
+        "translation": "loquat",
+        "audio": "",
+        "example": "Loquats are yellow and juicy."
+      },
+      {
+        "id": 74,
+        "word": "medlar",
+        "translation": "medlar",
+        "audio": "",
+        "example": "Medlars are soft when ripe."
+      },
+      {
+        "id": 75,
+        "word": "elderberry",
+        "translation": "elderberi",
+        "audio": "",
+        "example": "Elderberries are used in syrups and jams."
+      },
+      {
+        "id": 76,
+        "word": "saskatoon berry",
+        "translation": "saskatoon",
+        "audio": "",
+        "example": "Saskatoon berries grow in Canada."
+      },
+      {
+        "id": 77,
+        "word": "cloudberry",
+        "translation": "cloudberry",
+        "audio": "",
+        "example": "Cloudberries grow in the Arctic region."
+      },
+      {
+        "id": 78,
+        "word": "sea buckthorn",
+        "translation": "buckthorn laut",
+        "audio": "",
+        "example": "Sea buckthorn is rich in vitamins."
+      },
+      {
+        "id": 79,
+        "word": "camu camu",
+        "translation": "camu camu",
+        "audio": "",
+        "example": "Camu camu is a superfood from the Amazon."
+      },
+      {
+        "id": 80,
+        "word": "dragon fruit",
+        "translation": "buah naga",
+        "audio": "",
+        "example": "Dragon fruit is bright pink with white flesh."
+      },
+    
+      {
+        "id": 81,
+        "word": "snake fruit",
+        "translation": "salak",
+        "audio": "",
+        "example": "Snake fruit has scaly skin and sweet taste."
+      },
+      {
+        "id": 82,
+        "word": "cactus pear",
+        "translation": "buah kaktus",
+        "audio": "",
+        "example": "Cactus pears grow on prickly plants."
+      },
+      {
+        "id": 83,
+        "word": "bael",
+        "translation": "bael",
+        "audio": "",
+        "example": "Bael fruit is used in traditional medicine."
+      },
+      {
+        "id": 84,
+        "word": "breadnut",
+        "translation": "kemang",
+        "audio": "",
+        "example": "Breadnut is related to breadfruit."
+      },
+      {
+        "id": 85,
+        "word": "monstera fruit",
+        "translation": "buah monstera",
+        "audio": "",
+        "example": "Monstera fruit tastes like a mix of pineapple and banana."
+      },
+      {
+        "id": 86,
+        "word": "naranjilla",
+        "translation": "naranjilla",
+        "audio": "",
+        "example": "Naranjilla has a citrus-like taste."
+      },
+      {
+        "id": 87,
+        "word": "olive fruit",
+        "translation": "buah zaitun",
+        "audio": "",
+        "example": "Olive fruit is pressed into oil."
+      },
+      {
+        "id": 88,
+        "word": "barberry",
+        "translation": "barberi",
+        "audio": "",
+        "example": "Barberries are tiny and tart."
+      },
+      {
+        "id": 89,
+        "word": "langsat",
+        "translation": "langsat",
+        "audio": "",
+        "example": "Langsat has a translucent flesh."
+      },
+      {
+        "id": 90,
+        "word": "jicama",
+        "translation": "bengkuang",
+        "audio": "",
+        "example": "Jicama is crunchy and refreshing."
+      },
+    
+      {
+        "id": 91,
+        "word": "olive",
+        "translation": "zaitun",
+        "audio": "",
+        "example": "Olives can be green or black."
+      },
+      {
+        "id": 92,
+        "word": "tamarillo",
+        "translation": "terong belanda",
+        "audio": "",
+        "example": "Tamarillo can be red or yellow."
+      },
+      {
+        "id": 93,
+        "word": "wild cherry",
+        "translation": "ceri liar",
+        "audio": "",
+        "example": "Wild cherries grow in the forest."
+      },
+      {
+        "id": 94,
+        "word": "mountain apple",
+        "translation": "jambu bol",
+        "audio": "",
+        "example": "Mountain apples are juicy and pink."
+      },
+      {
+        "id": 95,
+        "word": "santol",
+        "translation": "sentul",
+        "audio": "",
+        "example": "Santol can be used to make rujak."
+      },
+      {
+        "id": 96,
+        "word": "marang",
+        "translation": "marang",
+        "audio": "",
+        "example": "Marang is native to Borneo."
+      },
+      {
+        "id": 97,
+        "word": "grapefruit",
+        "translation": "jeruk bali",
+        "audio": "",
+        "example": "Grapefruit has a bitter taste."
+      },
+      {
+        "id": 98,
+        "word": "bilberry",
+        "translation": "bilberi",
+        "audio": "",
+        "example": "Bilberries are similar to blueberries."
+      },
+      {
+        "id": 99,
+        "word": "peach palm fruit",
+        "translation": "buah pinang",
+        "audio": "",
+        "example": "Peach palm fruit grows on tall trees."
+      },
+      {
+        "id": 100,
+        "word": "golden berry",
+        "translation": "ciplukan",
+        "audio": "",
+        "example": "Golden berries are wrapped in papery husks."
+      }
+  ]
+  
