@@ -8,6 +8,7 @@ fetch("https://asep38.github.io/api-inggris-indonesia/data/vocab/animals.json")
       console.log(`${item.word} = ${item.translation}`);
     });
   });
+```
 
 - `id`: Nomor urut unik
 - `word`: Kosakata Bahasa Inggris
