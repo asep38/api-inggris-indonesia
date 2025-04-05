@@ -22,7 +22,7 @@ Berikut adalah daftar kategori kosakata yang tersedia:
 
 | No. | Kategori     | File JSON       | Link API                                                                 |
 |-----|--------------|-----------------|--------------------------------------------------------------------------|
-| 1   | 🐾 Animals    | `animals.json`  | [Lihat](https://username.github.io/api-english-indonesia/data/vocab/animals.json) |
+| 1   | 🐾 Animals    | `animals.json`  | [Lihat](https://asep38.github.io/api-inggris-indonesia/data/vocab/animals.json) |
 | 2   | 🍔 Food       | `food.json`     | *(coming soon)*                                                          |
 | 3   | 👕 Clothes    | `clothes.json`  | *(coming soon)*                                                          |
 | 4   | 👨‍🏫 Jobs      | `jobs.json`     | *(coming soon)*                                                          |
