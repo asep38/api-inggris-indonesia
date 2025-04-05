@@ -3,10 +3,10 @@
 
 **Open-source API** berisi kumpulan kosakata Bahasa Inggris dan terjemahan Bahasa Indonesia, cocok untuk digunakan dalam aplikasi belajar bahasa, kuis edukasi, dan proyek open source lainnya.
 
-🔗 Live API: [https://username.github.io/api-english-indonesia/data/vocab/animals.json](https://username.github.io/api-english-indonesia/data/vocab/animals.json)
+🔗 Live API: [https://asep38.github.io/api-inggris-indonesia/data/vocab/animals.json](https://asep38.github.io/api-inggris-indonesia/data/vocab/animals.json)
 
-
-### JavaScript (fetch API)
+# 🛠️ Cara Menggunakan
+### Fetch API via Javascript
 ```markdown
 js
 fetch("https://asep38.github.io/api-inggris-indonesia/data/vocab/animals.json")
