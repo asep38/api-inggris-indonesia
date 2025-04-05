@@ -31,3 +31,20 @@ Berikut adalah daftar kategori kosakata yang tersedia:
 | 2   | 🍔 Food       | `food.json`     | *(coming soon)*                                                          |
 | 3   | 👕 Clothes    | `clothes.json`  | *(coming soon)*                                                          |
 | 4   | 👨‍🏫 Jobs      | `jobs.json`     | *(coming soon)*                                                          |
+
+## 🧑‍💻 Kontribusi
+Pull Request sangat diterima! Kamu bisa:
+
+- Menambahkan kategori baru (file baru)
+- Menambahkan suara/audio
+- Menambahkan contoh kalimat
+
+## 📌 Langkah kontribusi:
+- Fork repo ini
+- Tambahkan file JSON baru di folder /data/vocab/
+- Buat Pull Request
+
+## 📄 License
+MIT © asepzarkasihnoor
+
+
