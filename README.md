@@ -1,6 +1,6 @@
 ### link
 ```
-live API : [https://asep38.github.io/api-inggris-indonesia/data/vocab/animals.json](https://asep38.github.io/api-inggris-indonesia/data/vocab/animals.json)
+live API : [https://asep38.github.io/api-inggris-indonesia/data/vocab/animals.json]
 ```
 
 ### JavaScript (fetch API)
