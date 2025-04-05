@@ -1,11 +1,15 @@
-### link
+
 ```
-live API : [https://asep38.github.io/api-inggris-indonesia/data/vocab/animals.json]
+# 🇬🇧🇮🇩 English ↔ Indonesian Vocabulary API
+
+**Open-source API** berisi kumpulan kosakata Bahasa Inggris dan terjemahan Bahasa Indonesia, cocok untuk digunakan dalam aplikasi belajar bahasa, kuis edukasi, dan proyek open source lainnya.
+
+🔗 Live API: [https://username.github.io/api-english-indonesia/data/vocab/animals.json](https://username.github.io/api-english-indonesia/data/vocab/animals.json)
 ```
 
 ### JavaScript (fetch API)
 ```markdown
-```js
+js
 fetch("https://asep38.github.io/api-inggris-indonesia/data/vocab/animals.json")
   .then(res => res.json())
   .then(data => {
